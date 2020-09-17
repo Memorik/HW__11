@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+C:\Users\User\source\repos\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+C:\Users\User\source\repos\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+C:\Users\User\source\repos\ConsoleApp31\obj\Debug\ConsoleApp31.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+C:\Users\User\source\repos\ConsoleApp31\obj\Debug\ConsoleApp31.pdb
